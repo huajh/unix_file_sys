@@ -1,0 +1,44 @@
+load... ...
+load success !
+mkdir
+filename:huajh4
+find
+size : 1
+i_addr[0]: 65018
+findInDir
+_alloc_inode
+addsubfile
+创建成功
+mkdir
+filename:huajhe
+find
+size : 1
+i_addr[0]: 65018
+findInDir
+_alloc_inode
+addsubfile
+创建成功
+mkdir
+filename:huajhw
+find
+size : 1
+i_addr[0]: 65018
+findInDir
+_alloc_inode
+addsubfile
+创建成功
+mkdir
+filename:huajh3
+find
+size : 1
+i_addr[0]: 65018
+findInDir
+文件已经存在
+ls
+1
+i_addr[i]: 65018
+huajh1
+6
+huajh1  huajh2  huajh3  huajh4  huajhe  huajhw  
+success
+save
